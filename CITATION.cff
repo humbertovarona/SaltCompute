@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  SaltCompute: Android application to calculate salinity from conductivity and pressure
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+repository-code: 'https://zenodo.org/record/7213759'
+abstract: >-
+  Android application to calculate salinity and specific conductivity from conductivity, temperature and depth
+keywords:
+  - Salinity
+license: MIT
+version: '1.5'
+date-released: '2022-01-12'
